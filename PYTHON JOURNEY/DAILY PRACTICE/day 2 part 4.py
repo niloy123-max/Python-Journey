@@ -1,0 +1,17 @@
+print('Now I\'m gonna practice some true false problems.')
+Main_password = 'Niloy_2477'
+Input_password = 'niloy_2477'
+match = (Main_password == Input_password)
+print(match)
+print('Okay. Let\'s try another one.')
+my_age = int(21)
+my_friend_age = int(25)
+Q = (my_age > my_friend_age)
+print(Q)
+My_HSC_GPA = float(5.00)
+My_friend_HSC_GPA = float(4.71)
+Q_2 = (My_friend_HSC_GPA > My_HSC_GPA)
+print(Q_2)
+print('So, true false is done.')
+Remaining_lines = int(500 -(64+17))
+print(Remaining_lines)
